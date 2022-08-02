@@ -1,0 +1,15 @@
+{
+    "name": "sagar/database-migration",
+    "authors": [
+        {
+            "name": "Sagar Tamang",
+            "email": "mi5t4n@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "DatabaseMigration\\": "src/"
+        }
+      },
+    "require": {}
+}
